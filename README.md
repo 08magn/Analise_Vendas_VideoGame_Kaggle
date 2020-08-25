@@ -1,0 +1,2 @@
+# Analise_Vendas_VideoGame_Kaggle
+Este conjunto de dados contém uma lista de videogames com vendas superiores a 100.000 cópias. Ele foi gerado por um scrape de vgchartz.com .   O script para extrair os dados está disponível em https://github.com/GregorUT/vgchartzScrape . É baseado no BeautifulSoup usando Python. Existem 16.598 registros. 2 registros foram eliminados devido a informações incompletas.
